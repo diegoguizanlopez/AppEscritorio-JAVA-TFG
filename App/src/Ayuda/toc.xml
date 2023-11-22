@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc>
+    <tocitem text="Ayuda|Help" target="Ayuda">
+    <tocitem text="Español" target="Español">
+        <tocitem text="VideoJuegos" target="VideoJuegosE"/>
+        <tocitem text="Generos" target="GenerosE"/>
+        <tocitem text="Empresas" target="EmpresasE"/>
+    </tocitem>
+    <tocitem text="English" target="Ingles">
+        <tocitem text="VideoGames" target="VideoJuegosI"/>
+        <tocitem text="Genres" target="GenerosI"/>
+        <tocitem text="Companies" target="EmpresasI"/>
+    </tocitem>
+    </tocitem>
+</toc>
